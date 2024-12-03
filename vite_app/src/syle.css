@@ -1,0 +1,307 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ html,body{
+    height: 100%;
+    width: 100%
+ }
+ 
+ #header{
+     height: 10%;
+     width: 100%;
+     background-color: white;
+     display: flex;
+ }
+ 
+ .logo{
+     height: 100%;
+     width: 10%;
+ }
+ 
+ .logo img{
+     height: 40px;
+     width: 95px;
+     background-position: center;
+     margin-left: 16px;
+     margin-top: 12px;
+ }
+ 
+ .badabox{
+     height: 100%;
+     width: 22%;
+     display: flex;
+ 
+ }
+ 
+ .chotubox{
+     background-color: white;
+     padding-top: 25px;
+     padding-left: 20px;
+     height: 100%;
+     width: 100%;
+     font-size: 12px;
+ }
+ 
+ #page1{
+     height: 100%;
+     width: 100%;
+ }
+ 
+ .something{
+     height: 3%;
+     width: 100%;
+ }
+ 
+ #page2{
+     height: 77%;
+     width: 100%;
+     display: flex;
+     background-color: white;
+     justify-content: space-between;
+ }
+ 
+ .images1{
+     height: 90%;
+     width: 22%;
+ }
+ 
+ #page3{
+     height: 100%;
+     width: 100%;
+     background-color: grey;
+ }
+ 
+ .x1 p{
+     height: 12%;
+     width: 100%;
+     color: black;
+     background-color: rgb(238,238,238);
+     padding-top: 28px;
+     padding-left: 80px;
+     font-size: 36px;
+ }
+ 
+ .page3lite{
+     height: 88%;
+     width: 100%;
+     background-color: rgb(238,238,238);
+     display: flex;
+ }
+ 
+ .boxx1{
+     height: 100%;
+     width: 50%;
+     background-color: rgb(238,238,238);
+     padding-top: 20px;
+     padding-left: 80px;
+ 
+ }
+ 
+ .boxx2{
+     height: 100%;
+     width: 50%;
+     padding-top: 20px;
+     padding-left: 2px;
+     background-color: rgb(238,238,238);
+ }
+ 
+ .boxx1 p{
+     padding-top: 19px;
+     padding-left: 32px;
+     font-size: 20px;
+ }
+ 
+ .boxx2 p{
+     padding-top: 19px;
+     padding-left: 32px;
+     font-size: 20px;
+ }
+ 
+ 
+ #page4{
+     height: 100%;
+     width: 100%;
+     background-color: rgb(238,238,238);
+ }
+ 
+ .x2 p{
+    height: 10%;
+    width: 100%;
+    color: black;
+    padding-top: 28px;
+    padding-left: 80px;
+    font-size: 36px;
+}
+
+.image2 p{
+    color: black;
+    font-size: 20px;
+}
+
+.boxx3{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+.image3{
+    height: 100%;
+    width: 33%;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+
+.image3 p{
+    color: black;
+    font-size: 20px;
+}
+
+#page5{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(238,238,238);
+}
+
+.x3{
+    height: 10%;
+    width: 100%;
+}
+
+.x3 p{
+    color: black;
+    background-color: rgb(238,238,238);
+    padding-top: 28px;
+    padding-left: 80px;
+    font-size: 36px;
+}
+
+.page5box{
+    height: 90%;
+    width: 100%;
+    display: flex;
+}
+
+.boxx4{
+    height: 100%;
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 80px;
+}
+
+.boxx5{
+    height: 100%;
+    width: 50%;
+    padding-top: 20px;
+    margin-right: 30px;
+}
+
+.boxx4 p{
+    padding-top: 19px;
+    padding-left: 32px;
+    font-size: 20px;
+}
+
+.boxx5 p{
+    padding-top: 19px;
+    padding-left: 32px;
+    font-size: 22px;
+}
+
+#page6{
+    height: 50%;
+    width: 100%;
+    background-color: white;
+}
+
+.page6box{
+    height: 40%;
+    width: 100%;
+    display: flex;
+}
+
+.footer1{
+    height: 100%;
+    width: 70%;
+    background-color: white;
+    display: flex;
+}
+
+.footer2{
+    height: 100%;
+    width: 30%;
+    background-color: white;
+    display: flex;
+}
+
+.footer1 img{
+    height: 70px;
+    width: 160px;
+    background-position: center;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.footer1 a{
+    margin-top: 60px;
+    margin-left: 40px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+}
+
+.footer2 img{
+    height: 30px;
+    width: 30px;
+    background-position: center;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.disneylogo{
+    height: 15%;
+    width: 100%;
+    text-align: center;
+}
+
+.disneylogo img{
+    height: 40px;
+    width: 100px;
+}
+
+.page6box2{
+    height: 45%;
+    width: 100%;
+}
+
+.page6box2 h5{
+    padding: 0 8px 4px;
+    font-weight: 400;
+}
+
+.page6box2 h4{
+    font-weight: 400;
+}
+
+.xyz{
+    display: flex;
+    margin-top: 10px;
+}
+
+.xyz2{
+    margin-top: 15px;
+    text-align: center;
+    font-weight: 200;
+}
+
+.xyz3{
+    text-align: center;
+    font-weight: 200;
+}
+
+
